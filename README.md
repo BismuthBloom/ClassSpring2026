@@ -4,7 +4,7 @@ Name: Spinning Top
 
 Year: 2025
 
-![Needle blinking](Needleblinking.gif)
+![Spinning Top](Spinning_Top.gif)
 
 Project: Something math
 
